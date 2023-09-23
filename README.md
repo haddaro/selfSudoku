@@ -1,2 +1,2 @@
 # sudoku
-Build your own sudoku and then play it
+Build your own sudoku and then play it (Java & JavaFX)
